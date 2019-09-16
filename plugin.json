@@ -1,0 +1,15 @@
+{
+  "slug": "hg_modules",
+  "name": "hg_modules",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "brand": "hg_modules",
+  "author": "Hastings Greer",
+  "authorEmail": "",
+  "authorUrl": "hgreer.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "github.com/HastingsGreer/hg_modules",
+  "donateUrl": "",
+  "modules": []
+}
